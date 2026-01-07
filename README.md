@@ -6,7 +6,7 @@
 
 ### 🚀 The Quick Look
 
-- 💼 **Professional:** Currently an **AR Trainee at Trubridge**, working within HCA Urgent Care Services.
+- 💼 **Professional:** Currently an **Analyst  at Trubridge**.
 - 🎤 **Leadership:** **PR Lead for GDG** (Google Developer Group) and **Committee Head** for Ziegers, managing 80+ members.
 - 🛠️ **Building:** Focused on **PlaceIt PMS** and cross-platform API testing tools.
 
@@ -57,8 +57,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/prakash-malwad-5361a31b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:prakashmalwad8778999020@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+</p>  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
