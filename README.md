@@ -1,61 +1,63 @@
 # 👋 Hello, I'm Prakash Malwad!
 
-**Full-Stack Developer | Graphic Designer | [cite_start]Tech Community Leader** I am a Computer Science graduate from **SIES College** (CGPA: 9.05) [cite: 27, 29] [cite_start]with a passion for building scalable software and high-impact graphic design[cite: 6]. [cite_start]I thrive at the intersection of technical logic and creative user experience[cite: 7].
+**Full-Stack Developer | Graphic Designer | Tech Community Leader** A high-achieving Computer Science graduate (9.05 CGPA) from SIES College with a unique blend of engineering logic and creative design expertise. I specialize in the MERN stack and cross-platform mobile development.
 
 ---
 
-### 🚀 At a Glance
+### 🚀 The Quick Look
 
-- [cite_start]💼 **Professional Experience:** Currently an **AR Trainee at Trubridge**, specializing in RCM Denials and healthcare software[cite: 33, 35, 37].
-- [cite_start]🎤 **Community Leadership:** **PR Lead for GDG** (Google Developer Group) and **Committee Head** for the Ziegers Annual Fest, managing 80+ members[cite: 38, 41].
-- [cite_start]🛠️ **Current Focus:** Maintaining **PlaceIt PMS** and improving API testing workflows[cite: 19, 22].
+- 💼 **Professional:** Currently an **AR Trainee at Trubridge**, working within HCA Urgent Care Services.
+- 🎤 **Leadership:** **PR Lead for GDG** (Google Developer Group) and **Committee Head** for Ziegers, managing 80+ members.
+- 🛠️ **Building:** Focused on **PlaceIt PMS** and cross-platform API testing tools.
 
 ---
 
-### 🛠️ My Digital Toolbox
+### 🛠️ Technical Arsenal
 
-**Software Development**
+**Development & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,js,kotlin,dart,react,nodejs,express,mongodb,laravel,flutter,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,py,cs,kotlin,dart,flutter,laravel,html,css,tailwind,bootstrap" />
 </p>
 
-**Design & Cloud Tools**
+**Design & Professional Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,gcp,git,postman,unity" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,gcp,git,postman,unity,vscode" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-* [cite_start]🚀 **[PlaceIt PMS](https://placeit-pms.pages.dev/)** - A comprehensive Placement Management System for colleges[cite: 19, 20].
-* [cite_start]🧪 **[Apix ApiTester](https://reactlayer.pages.dev/)** - A cross-platform application for streamlined API testing[cite: 22, 24].
+| Project | Description | Live Link |
+| :--- | :--- | :--- |
+| **PlaceIt PMS** | A full-scale Placement Management System for academic institutions. | [View Project](https://placeit-pms.pages.dev/) |
+| **Apix ApiTester** | A modern, cross-platform UI for rapid API testing and debugging. | [View Project](https://reactlayer.pages.dev/) |
 
 ---
 
-### 📜 Certifications & Achievements
+### 📜 Certifications
 
-- [cite_start]🏆 **Postman Student Expert** [cite: 16]
-- [cite_start]☁️ **Google Vertex AI Fundamentals** [cite: 16]
-- [cite_start]🛡️ **CISCO Introduction to Cybersecurity** [cite: 16]
-- [cite_start]🌐 **IBM Cloud Computing Fundamentals** [cite: 16]
+- 🏆 **Postman Student Expert**
+- ☁️ **Google Vertex AI & Cloud Fundamentals**
+- 🛡️ **CISCO Cybersecurity**
+- 🌐 **IBM Cloud Computing Fundamental**
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Activity
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=PrakashMalwad&show_icons=true&theme=tokyonight&hide_border=true" alt="Prakash's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashMalwad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=PrakashMalwad&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&hide_border=true" alt="Prakash's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashMalwad&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prakash-malwad-5361a31b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prakash Malwad LinkedIn" height="30" width="40" /></a>
-<a href="mailto:prakashmalwad8778999020@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Prakash Malwad Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakash-malwad-5361a31b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:prakashmalwad8778999020@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <p align="center">
